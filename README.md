@@ -12,8 +12,9 @@ make.fun tiny-chess-01 competition.
 
 ## Credits
 
-Search and evaluation ideas are adapted from c4ke by citrus610
-(https://github.com/citrus610/c4ke, MIT), which credits ice4 and 4ku.
-The Python code is a new implementation, not a line-for-line port.
+Ideas (not code) from c4ke (github.com/citrus610/c4ke), ice4
+(github.com/MinusKelvin/ice4), 4ku (github.com/kz04px/4ku) and
+Stockfish (github.com/official-stockfish/Stockfish). Eval weights
+Texel-tuned on the lichess-big3-resolved positions (ct800.net).
 
 MIT licensed, see LICENSE.
